@@ -1,0 +1,6 @@
+package com.example.btgkb2;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
